@@ -20,7 +20,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/github/followers/phpwalter?style=plastic" />
+<img src="https://img.shields.io/github/followers/phpwalter" />
 
 <br/>
 
@@ -67,92 +67,240 @@
       <td><b>⭐ Contributors</b></td>
       <td><b>📚 Forks</b></td>
       <td><b>📚 Commits</b></td>
-      <td><b>📚 Last Commit</b></td>
       <td><b>🛎 Issues</b></td>
       <td><b>📬 Pull requests</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a                            href="https://github.com/phpwalter/angular-material-02"><b>angular-material-02</b></a></td>
-      <td><img alt="Stars"         src="https://img.shields.io/github/stars/phpwalter/angular-material-02?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Contributors"  src="https://img.shields.io/github/contributors/phpwalter/angular-material-02?style=plastic?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks"         src="https://img.shields.io/github/forks/phpwalter/angular-material-02?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Commits"       src="https://img.shields.io/github/commit-activity/y/phpwalter/angular-material-02?style=plastic?style=plastic?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Last Commit"   src="https://img.shields.io/github/last-commit/phpwalter/angular-material-02?style=plastic?style=plastic?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues"        src="https://img.shields.io/github/issues-raw/phpwalter/angular-material-02?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/phpwalter/angular-material-02?style=flat-square&labelColor=343b41"/></td>
+      <td valign="top">
+      <a                                             href="https://github.com/phpwalter/angular-material-02"><b>Angular Material 02</b></a>
+          <br/>
+          <img alt="License"                    src="https://img.shields.io/github/license/phpwalter/angular-material-02">
+      </td>
+      <td valign="top"><img alt="Stars"         src="https://img.shields.io/github/stars/phpwalter/angular-material-02"/></td>
+      <td valign="top"><img alt="Contributors"  src="https://img.shields.io/github/contributors/phpwalter/angular-material-02"/></td>
+      <td valign="top"><img alt="Forks"         src="https://img.shields.io/github/forks/phpwalter/angular-material-02"/></td>
+      <td valign="top">
+        <img alt="Commits"                      src="https://img.shields.io/github/commit-activity/y/phpwalter/angular-material-02"/>
+        <br/>
+        <img alt="Last Commit"                  src="https://img.shields.io/github/last-commit/phpwalter/angular-material-02"/>
+      </td>
+      <td valign="top">
+        <img alt="Issues"                       src="https://img.shields.io/github/issues/phpwalter/angular-material-02?color=blue"/>
+        <br/>
+        <img alt="Issues Open"                  src="https://img.shields.io/github/issues-raw/phpwalter/angular-material-02?color=red"/>
+        <br/>
+        <img alt="Issues Closed"                src="https://img.shields.io/github/issues-closed-raw/phpwalter/angular-material-02?color=yellow"/>
+      </td>
+      <td valign="top">
+        <img alt="Pull Requests"                src="https://img.shields.io/github/issues-pr/phpwalter/angular-material-02?color=blue"/>
+        <br/>
+        <img alt="OPEN PR"                      src="https://img.shields.io/github/issues-pr-raw/phpwalter/angular-material-02?color=red"/>
+        <br/>
+        <img alt="CLOSED PR"                    src="https://img.shields.io/github/issues-pr-closed-raw/phpwalter/angular-material-02?color=yellow"/>
+      </td>
     </tr>
 	  <tr>
-      <td><a                            href="https://github.com/phpwalter/angular-material-03"><b>angular-material-03</b></a></td>
-      <td><img alt="Stars"         src="https://img.shields.io/github/stars/phpwalter/angular-material-03?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Contributors"  src="https://img.shields.io/github/contributors/phpwalter/angular-material-02?style=plastic?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks"         src="https://img.shields.io/github/forks/phpwalter/angular-material-03?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Commits"       src="https://img.shields.io/github/commit-activity/y/phpwalter/angular-material-03?style=plastic?style=plastic?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Last Commit"   src="https://img.shields.io/github/last-commit/phpwalter/angular-material-03?style=plastic?style=plastic?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues"        src="https://img.shields.io/github/issues-raw/phpwalter/angular-material-03?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/phpwalter/angular-material-03?style=flat-square&labelColor=343b41"/></td>
+      <td valign="top">
+        <a                            href="https://github.com/phpwalter/angular-material-03"><b>Angular Material 03</b></a>
+          <br/>
+          <img alt="License"                    src="https://img.shields.io/github/license/phpwalter/angular-material-03">
+      </td>
+      <td valign="top"><img alt="Stars"         src="https://img.shields.io/github/stars/phpwalter/angular-material-03"/></td>
+      <td valign="top"><img alt="Contributors"  src="https://img.shields.io/github/contributors/phpwalter/angular-material-03"/></td>
+      <td valign="top"><img alt="Forks"         src="https://img.shields.io/github/forks/phpwalter/angular-material-03"/></td>
+      <td valign="top">
+        <img alt="Commits"                      src="https://img.shields.io/github/commit-activity/y/phpwalter/angular-material-03"/>
+        <br/>
+        <img alt="Last Commit"                  src="https://img.shields.io/github/last-commit/phpwalter/angular-material-03"/>
+      </td>
+      <td valign="top">
+        <img alt="Issues"                       src="https://img.shields.io/github/issues/phpwalter/angular-material-03?color=blue"/>
+        <br/>
+        <img alt="Issues Open"                  src="https://img.shields.io/github/issues-raw/phpwalter/angular-material-03?color=red"/>
+        <br/>
+        <img alt="Issues Closed"                src="https://img.shields.io/github/issues-closed-raw/phpwalter/angular-material-03?color=yellow"/>
+      </td>
+      <td valign="top">
+        <img alt="Pull Requests"                src="https://img.shields.io/github/issues-pr/phpwalter/angular-material-03?color=blue"/>
+        <br/>
+        <img alt="OPEN PR"                      src="https://img.shields.io/github/issues-pr-raw/phpwalter/angular-material-03?color=red"/>
+        <br/>
+        <img alt="CLOSED PR"                    src="https://img.shields.io/github/issues-pr-closed-raw/phpwalter/angular-material-03?color=yellow"/>
+      </td>
     </tr>
     <tr>
-      <td><a                            href="https://github.com/phpwalter/slim3-api-output-format"><b>slim3-api-output-format</b></a></td>
-      <td><img alt="Stars"         src="https://img.shields.io/github/stars/phpwalter/slim3-api-output-format?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Contributors"  src="https://img.shields.io/github/contributors/phpwalter/slim3-api-output-format?style=plastic?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks"         src="https://img.shields.io/github/forks/phpwalter/slim3-api-output-format?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Commits"       src="https://img.shields.io/github/commit-activity/y/phpwalter/slim3-api-output-format?style=plastic?style=plastic?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Last Commit"   src="https://img.shields.io/github/last-commit/phpwalter/slim3-api-output-format?style=plastic?style=plastic?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues"        src="https://img.shields.io/github/issues-raw/phpwalter/slim3-api-output-format?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/phpwalter/slim3-api-output-format?style=flat-square&labelColor=343b41"/></td>
+      <td valign="top">
+         <a                                          href="https://github.com/phpwalter/slim3-api-output-format"><b>Slim3 API Output Format</b></a>
+          <br/>
+          <img alt="License"                    src="https://img.shields.io/github/license/phpwalter/angular-material-02">
+      </td>
+      <td valign="top"><img alt="Stars"         src="https://img.shields.io/github/stars/phpwalter/slim3-api-output-format"/></td>
+      <td valign="top"><img alt="Contributors"  src="https://img.shields.io/github/contributors/phpwalter/slim3-api-output-format"/></td>
+      <td valign="top"><img alt="Forks"         src="https://img.shields.io/github/forks/phpwalter/slim3-api-output-format"/></td>
+      <td valign="top">
+        <img alt="Commits"                      src="https://img.shields.io/github/commit-activity/y/phpwalter/slim3-api-output-format"/>
+        <br/>
+        <img alt="Last Commit"                  src="https://img.shields.io/github/last-commit/phpwalter/slim3-api-output-format"/>
+      </td>
+      <td valign="top">
+        <img alt="Issues"                       src="https://img.shields.io/github/issues/phpwalter/slim3-api-output-format?color=blue"/>
+        <br/>
+        <img alt="Issues Open"                  src="https://img.shields.io/github/issues-raw/phpwalter/slim3-api-output-format?color=red"/>
+        <br/>
+        <img alt="Issues Closed"                src="https://img.shields.io/github/issues-closed-raw/phpwalter/slim3-api-output-format?color=yellow"/>
+      <td valign="top">
+        <img alt="Pull Requests"                src="https://img.shields.io/github/issues-pr/phpwalter/slim3-api-output-format?color=blue"/>
+        <br/>
+        <img alt="OPEN PR"                      src="https://img.shields.io/github/issues-pr-raw/phpwalter/slim3-api-output-format?color=red"/>
+        <br/>
+        <img alt="CLOSED PR"                    src="https://img.shields.io/github/issues-pr-closed-raw/phpwalter/slim3-api-output-format?color=yellow"/>
+      </td>
     </tr>
     <tr>
-      <td><a                            href="https://github.com/phpwalter/slim.launchpad"><b>slim3-api-output-format</b></a></td>
-      <td><img alt="Stars"         src="https://img.shields.io/github/stars/phpwalter/slim.launchpad?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Contributors"  src="https://img.shields.io/github/contributors/phpwalter/slim.launchpad?style=plastic?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks"         src="https://img.shields.io/github/forks/phpwalter/slim.launchpad?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Commits"       src="https://img.shields.io/github/commit-activity/y/phpwalter/slim.launchpad?style=plastic?style=plastic?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Last Commit"   src="https://img.shields.io/github/last-commit/phpwalter/slim.launchpad?style=plastic?style=plastic?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues"        src="https://img.shields.io/github/issues-raw/phpwalter/slim.launchpad?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/phpwalter/slim.launchpad?style=flat-square&labelColor=343b41"/></td>
+      <td valign="top">
+        <a                                           href="https://github.com/phpwalter/slim.launchpad"><b>Slim3 Launchpad</b></a>
+          <br/>
+          <img alt="License"                    src="https://img.shields.io/github/license/phpwalter/slim.launchpad">
+          <br/>
+          <img alt="Help Wanted"                src="https://img.shields.io/badge/%20-help--wanted-%23159818">
+      </td>
+      <td valign="top"><img alt="Stars"         src="https://img.shields.io/github/stars/phpwalter/slim.launchpad"/></td>
+      <td valign="top"><img alt="Contributors"  src="https://img.shields.io/github/contributors/phpwalter/slim.launchpad"/></td>
+      <td valign="top"><img alt="Forks"         src="https://img.shields.io/github/forks/phpwalter/slim.launchpad"/></td>
+      <td valign="top">
+        <img alt="Commits"                      src="https://img.shields.io/github/commit-activity/y/phpwalter/slim.launchpad"/>
+        <br/>
+        <img alt="Last Commit"                  src="https://img.shields.io/github/last-commit/phpwalter/slim.launchpad"/>
+      </td>
+      <td valign="top">
+        <img alt="Issues"                       src="https://img.shields.io/github/issues/phpwalter/slim.launchpad?color=blue"/>
+        <br/>
+        <img alt="Issues Open"                  src="https://img.shields.io/github/issues-raw/phpwalter/slim.launchpad?color=red"/>
+        <br/>
+        <img alt="Issues Closed"                src="https://img.shields.io/github/issues-closed-raw/phpwalter/slim.launchpad?color=yellow"/>
+      </td>
+      <td valign="top">
+        <img alt="Pull Requests"                src="https://img.shields.io/github/issues-pr/phpwalter/slim.launchpad?color=blue"/>
+        <br/>
+        <img alt="OPEN PR"                      src="https://img.shields.io/github/issues-pr-raw/phpwalter/slim.launchpad?color=red"/>
+        <br/>
+        <img alt="CLOSED PR"                    src="https://img.shields.io/github/issues-pr-closed-raw/phpwalter/slim.launchpad?color=yellow"/>
+      </td>
     </tr>
     <tr>
-      <td><a                            href="https://github.com/phpwalter/pdf-merger"><b>pdf-merger</b></a></td>
-      <td><img alt="Stars"         src="https://img.shields.io/github/stars/phpwalter/pdf-merger?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Contributors"  src="https://img.shields.io/github/contributors/phpwalter/pdf-merger?style=plastic?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks"         src="https://img.shields.io/github/forks/phpwalter/pdf-merger?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Commits"       src="https://img.shields.io/github/commit-activity/y/phpwalter/pdf-merger?style=plastic?style=plastic?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Last Commit"   src="https://img.shields.io/github/last-commit/phpwalter/pdf-merger?style=plastic?style=plastic?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues"        src="https://img.shields.io/github/issues-raw/phpwalter/pdf-merger?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/phpwalter/pdf-merger?style=flat-square&labelColor=343b41"/></td>
+      <td valign="top"><a                            href="https://github.com/phpwalter/pdf-merger"><b>PDF-merger</b></a></td>
+      <td valign="top"><img alt="Stars"         src="https://img.shields.io/github/stars/phpwalter/pdf-merger"/></td>
+      <td valign="top"><img alt="Contributors"  src="https://img.shields.io/github/contributors/phpwalter/pdf-merger"/></td>
+      <td valign="top"><img alt="Forks"         src="https://img.shields.io/github/forks/phpwalter/pdf-merger"/></td>
+      <td valign="top">
+        <img alt="Commits"                      src="https://img.shields.io/github/commit-activity/y/phpwalter/pdf-merger"/>
+        <br/>
+        <img alt="Last Commit"                  src="https://img.shields.io/github/last-commit/phpwalter/pdf-merger"/>
+      </td>
+      <td valign="top">
+        <img alt="Issues"                       src="https://img.shields.io/github/issues/phpwalter/pdf-merger?color=blue"/>
+        <br/>
+        <img alt="Issues Open"                  src="https://img.shields.io/github/issues-raw/phpwalter/pdf-merger?color=red"/>
+        <br/>
+        <img alt="Issues Closed"                src="https://img.shields.io/github/issues-closed-raw/phpwalter/pdf-merger?color=yellow"/>
+      </td>
+      <td valign="top">
+        <img alt="Pull Requests"                src="https://img.shields.io/github/issues-pr/phpwalter/pdf-merger?color=blue"/>
+        <br/>
+        <img alt="OPEN PR"                      src="https://img.shields.io/github/issues-pr-raw/phpwalter/pdf-merger?color=red"/>
+        <br/>
+        <img alt="CLOSED PR"                    src="https://img.shields.io/github/issues-pr-closed-raw/phpwalter/pdf-merger?color=yellow"/>
+      </td>
     </tr>
     <tr>
-      <td><a                            href="https://github.com/phpwalter/cbsrmt"><b>cbsrmt</b></a></td>
-      <td><img alt="Stars"         src="https://img.shields.io/github/stars/phpwalter/cbsrmt?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Contributors"  src="https://img.shields.io/github/contributors/phpwalter/cbsrmt?style=plastic?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks"         src="https://img.shields.io/github/forks/phpwalter/cbsrmt?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Commits"       src="https://img.shields.io/github/commit-activity/y/phpwalter/cbsrmt?style=plastic?style=plastic?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Last Commit"   src="https://img.shields.io/github/last-commit/phpwalter/cbsrmt?style=plastic?style=plastic?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues"        src="https://img.shields.io/github/issues-raw/phpwalter/cbsrmt?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/phpwalter/cbsrmt?style=flat-square&labelColor=343b41"/></td>
+      <td valign="top">
+         <a                                          href="https://github.com/phpwalter/ckflo.api"><b>CheckFlo API</b></a>
+          <br/>
+          <img alt="License"                    src="https://img.shields.io/github/license/phpwalter/ckflo.api">
+      </td>
+      <td valign="top"><img alt="Stars"         src="https://img.shields.io/github/stars/phpwalter/ckflo.api"/></td>
+      <td valign="top"><img alt="Contributors"  src="https://img.shields.io/github/contributors/phpwalter/ckflo.api"/></td>
+      <td valign="top"><img alt="Forks"         src="https://img.shields.io/github/forks/phpwalter/ckflo.api"/></td>
+      <td valign="top">
+        <img alt="Commits"                     src="https://img.shields.io/github/commit-activity/y/phpwalter/ckflo.api"/>
+        <br/>
+        <img alt="Last Commit"                 src="https://img.shields.io/github/last-commit/phpwalter/ckflo.api"/>
+      </td>
+      <td valign="top">
+        <img alt="Issues"                       src="https://img.shields.io/github/issues/phpwalter/ckflo.api?color=blue"/>
+        <br/>
+        <img alt="Issues Open"                  src="https://img.shields.io/github/issues-raw/phpwalter/pdf-merger?color=red"/>
+        <br/>
+        <img alt="Issues Closed"                src="https://img.shields.io/github/issues-closed-raw/phpwalter/ckflo.api?color=yellow"/>
+      <td valign="top">
+        <img alt="Pull Requests"                src="https://img.shields.io/github/issues-pr/phpwalter/ckflo.api?color=blue"/>
+        <br/>
+        <img alt="OPEN PR"                      src="https://img.shields.io/github/issues-pr-raw/phpwalter/ckflo.api?color=red"/>
+        <br/>
+        <img alt="CLOSED PR"                    src="https://img.shields.io/github/issues-pr-closed-raw/phpwalter/ckflo.api?color=yellow"/>
+      </td>
     </tr>
     <tr>
-      <td><a                            href="https://github.com/phpwalter/ckflo.api"><b>CheckFlo API</b></a></td>
-      <td><img alt="Stars"         src="https://img.shields.io/github/stars/phpwalter/ckflo.api?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Contributors"  src="https://img.shields.io/github/contributors/phpwalter/ckflo.api?style=plastic?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks"         src="https://img.shields.io/github/forks/phpwalter/ckflo.api?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Commits"       src="https://img.shields.io/github/commit-activity/y/phpwalter/ckflo.api?style=plastic?style=plastic?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Last Commit"   src="https://img.shields.io/github/last-commit/phpwalter/ckflo.api?style=plastic?style=plastic?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues"        src="https://img.shields.io/github/issues-raw/phpwalter/ckflo.api?style=plastic"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/phpwalter/ckflo.api?style=flat-square&labelColor=343b41"/></td>
+      <td valign="top">
+          <a                                         href="https://github.com/phpwalter/cbsrmt"><b>CBS Radio Mystery Theater API</b></a>
+          <br/>
+          <img alt="License"                    src="https://img.shields.io/github/license/phpwalter/cbsrmt">
+          <br/>
+          <img alt="Help Wanted"                src="https://img.shields.io/badge/%20-help--wanted-%23159818">
+      </td>
+      <td valign="top"><img alt="Stars"         src="https://img.shields.io/github/stars/phpwalter/cbsrmt"/></td>
+      <td valign="top"><img alt="Contributors"  src="https://img.shields.io/github/contributors/phpwalter/cbsrmt"/></td>
+      <td valign="top"><img alt="Forks"         src="https://img.shields.io/github/forks/phpwalter/cbsrmt"/></td>
+      <td valign="top">
+        <img alt="Commits"                      src="https://img.shields.io/github/commit-activity/y/phpwalter/cbsrmt"/>
+        <br/>
+        <img alt="Last Commit"                  src="https://img.shields.io/github/last-commit/phpwalter/cbsrmt"/>
+      </td>
+      <td valign="top">
+        <img alt="Issues"                       src="https://img.shields.io/github/issues/phpwalter/cbsrmt?color=blue"/>
+        <br/>
+        <img alt="Issues Open"                  src="https://img.shields.io/github/issues-raw/phpwalter/cbsrmt?color=red"/>
+        <br/>
+        <img alt="Issues Closed"                src="https://img.shields.io/github/issues-closed-raw/phpwalter/cbsrmt?color=yellow"/>
+      <td valign="top">
+        <img alt="Pull Requests"                src="https://img.shields.io/github/issues-pr/phpwalter/cbsrmt?color=blue"/>
+        <br/>
+        <img alt="OPEN PR"                      src="https://img.shields.io/github/issues-pr-raw/phpwalter/cbsrmt?color=red"/>
+        <br/>
+        <img alt="CLOSED PR"                    src="https://img.shields.io/github/issues-pr-closed-raw/phpwalter/cbsrmt?color=yellow"/>
+      </td>
     </tr>
     <tr>
-      <td><a                            href="https://github.com/BluewaterMVC/Bluewater.8"><b>Bluewater 8</b></a></td>
-      <td><img alt="Stars"         src="https://img.shields.io/github/stars/BluewaterMVC/Bluewater.8?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Contributors"  src="https://img.shields.io/github/contributors/BluewaterMVC/Bluewater.8?style=plastic?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks"         src="https://img.shields.io/github/forks/BluewaterMVC/Bluewater.8?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Commits"       src="https://img.shields.io/github/commit-activity/y/BluewaterMVC/Bluewater.8?style=plastic?style=plastic?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Last Commit"   src="https://img.shields.io/github/last-commit/BluewaterMVC/Bluewater.8?style=plastic?style=plastic?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues"        src="https://img.shields.io/github/issues-raw/BluewaterMVC/Bluewater.8?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/BluewaterMVC/Bluewater.8?style=flat-square&labelColor=343b41"/></td>
-    </tr>
+      <td valign="top">
+          <a                                         href="https://github.com/BluewaterMVC/Bluewater.8"><b>Bluewater MVC [8]</a>
+          <br/>
+          <img alt="License"                    src="https://img.shields.io/github/license/BluewaterMVC/Bluewater.8">
+          <br/>
+          <img alt="Help Wanted"                src="https://img.shields.io/badge/%20-help--wanted-%23159818">
+      </td>
+      <td valign="top"><img alt="Stars"         src="https://img.shields.io/github/stars/BluewaterMVC/Bluewater.8"/></td>
+      <td valign="top"><img alt="Contributors"  src="https://img.shields.io/github/contributors/BluewaterMVC/Bluewater.8"/></td>
+      <td valign="top"><img alt="Forks"         src="https://img.shields.io/github/forks/BluewaterMVC/Bluewater.8"/></td>
+      <td valign="top">
+         <img alt="Commits"                     src="https://img.shields.io/github/commit-activity/y/BluewaterMVC/Bluewater.8"/>
+         <br/>
+         <img alt="Last Commit"                 src="https://img.shields.io/github/last-commit/BluewaterMVC/Bluewater.8"/>
+      </td>
+      <td valign="top">
+        <img alt="Issues"                       src="https://img.shields.io/github/issues/BluewaterMVC/Bluewater.8?color=blue"/>
+        <br/>
+        <img alt="Issues Open"                  src="https://img.shields.io/github/issues-raw/BluewaterMVC/Bluewater.8?color=red"/>
+        <br/>
+        <img alt="Issues Closed"                src="https://img.shields.io/github/issues-closed-raw/BluewaterMVC/Bluewater.8?color=yellow"/>
+      <td valign="top">
+        <img alt="Pull Requests"                src="https://img.shields.io/github/issues-pr/phpwalter/Bluewater.8?color=blue"/>
+        <br/>
+        <img alt="OPEN PR"                      src="https://img.shields.io/github/issues-pr-raw/BluewaterMVC/Bluewater.8?color=red"/>
+        <br/>
+        <img alt="CLOSED PR"                    src="https://img.shields.io/github/issues-pr-closed-raw/BluewaterMVC/Bluewater.8?color=yellow"/>
+      </tr>
   </tbody>
 </table>
 
@@ -175,10 +323,11 @@
 <a href="https://github.com/bluewatermvc/bluewater.8">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bluewatermvc&repo=bluewater.8&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-
-
 <a href="https://github.com/phpwalter/cbsrmt">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=phpwalter&repo=cbsrmt&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/phpwalter/cbsrmt">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=phpwalter&repo=ckflo.api&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
 <!-- links to social media icons -->
