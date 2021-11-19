@@ -295,7 +295,7 @@
         <br/>
         <img alt="Issues Closed"                src="https://img.shields.io/github/issues-closed-raw/BluewaterMVC/Bluewater.8?color=yellow"/>
       <td valign="top">
-        <img alt="Pull Requests"                src="https://img.shields.io/github/issues-pr/phpwalter/Bluewater.8?color=blue"/>
+        <img alt="Pull Requests"                src="https://img.shields.io/github/issues-pr/BluewaterMVC/Bluewater.8?color=blue"/>
         <br/>
         <img alt="OPEN PR"                      src="https://img.shields.io/github/issues-pr-raw/BluewaterMVC/Bluewater.8?color=red"/>
         <br/>
