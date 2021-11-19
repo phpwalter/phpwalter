@@ -1,10 +1,5 @@
 ### Hi there, I'm Walter - aka [The Digital Architect][website] 👋
 
-[![Website](http://torres.ws/website?label=torres.ws&style=for-the-badge&url=http%3A%2F%2Ftorres.ws****)](http://torres.ws)
-[![Twitter Follow](https://torres.ws/twitter/follow/dgtl_architect?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdgtl_architect&screen_name=dgtl_architect)
-
-## U+1F5FF I'm a Husband, Father, Developer, and Teacher!!
-
 - 🔭 I'm constructing my first course
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
